@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: darkred;
+    color: white;
+}
+#number-el{
+    color: white;
+    margin: 10px
+}
+#roll-btn{
+    margin: 10px;
+    width:160px;
+    height: 60px;
+    color: white;
+    background-color: darkblue;
+    border: 10px;
+    border-radius: 10%
+}
